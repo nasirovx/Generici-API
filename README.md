@@ -1,4 +1,4 @@
-# Generic API + Docker + DRF
+# Generic API + Docker + DRF 🚀
 
 This project serves as an educational example of creating an API using Generic Views in Django. The project is authored by Marselle. You can contact the author [here](https://instagram.com/5ekastan).
 
@@ -40,7 +40,7 @@ Generic API Project demonstrates the use of Django to create an API using Generi
     python manage.py runserver
     ```
 
-2. Open a web browser and go to [http://127.0.0.1:8000/](http://127.0.0.1:8000/) to access the API.
+2. Open a web browser and go to [http://localhost:8000/](http://localhost:8000/) to access the API.
 
 ## Using the API
 
