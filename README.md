@@ -1,4 +1,4 @@
-# Generic API + Docker + DRF 🚀
+# 🚀 Generic API + Docker + DRF 🚀
 
 This project serves as an educational example of creating an API using Generic Views in Django. The project is authored by Marselle. You can contact the author [here](https://instagram.com/5ekastan).
 
@@ -11,13 +11,13 @@ Generic API Project demonstrates the use of Django to create an API using Generi
 1. Clone the repository:
 
     ```bash
-    git clone git@github.com:marse11e/Generic-Api-Project.git
+    git clone git@github.com:nasirovx/Generic-Api.git
     ```
 
 2. Navigate to the project directory:
 
     ```bash
-    cd Generic-Api-Project
+    cd Generic-Api
     ```
 
 3. Install dependencies:
