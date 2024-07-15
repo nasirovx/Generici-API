@@ -1,4 +1,4 @@
 Django==4.2.7
 django-jazzmin==2.6.0
 djangorestframework==3.14.0
-drf-yasg==1.21.7
+drf-yasg==1.21.7 
