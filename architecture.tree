@@ -3,7 +3,7 @@
 ├── db.sqlite3
 ├── GenericApiProject
 │   ├── asgi.py
-│   ├── __init__.py
+│   ├── __init__.py 
 │   ├── __pycache__
 │   │   ├── __init__.cpython-310.pyc
 │   │   ├── settings.cpython-310.pyc
