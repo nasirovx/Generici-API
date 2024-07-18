@@ -1,5 +1,5 @@
 # 🌟 Generic API + Docker + DRF 🚀
-
+ 
 This project serves as an educational example of creating an API using Generic Views in Django. The project is authored by Marselle. You can contact the author [here](https://instagram.com/5ekastan).
  
 ## Project Description
