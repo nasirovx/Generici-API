@@ -7,7 +7,7 @@ This project serves as an educational example of creating an API using Generic V
 Generic API Project demonstrates the use of Django to create an API using Generic Views. Generic Views provide a convenient way to handle various CRUD (Create, Retrieve, Update, Delete) operations for Django models.
 
 ## Installation 
-
+ 
 1. Clone the repository: 
 
     ```bash
